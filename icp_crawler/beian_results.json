@@ -1,0 +1,32 @@
+[
+{
+    "unit_name": "北京百度网讯科技有限公司",
+    "nature_name": "企业",
+    "domain": "baidu.com",
+    "domain_id": 10000245113,
+    "main_licence": "京ICP证030173号",
+    "service_licence": "京ICP证030173号-1",
+    "main_id": 282751,
+    "update_time": "2019-05-16 16:06:21"
+},
+{
+    "unit_name": "北京京东叁佰陆拾度电子商务有限公司",
+    "nature_name": "企业",
+    "domain": "jd.com",
+    "domain_id": 10003375967,
+    "main_licence": "京ICP备11041704号",
+    "service_licence": "京ICP备11041704号-3",
+    "main_id": 10000282098,
+    "update_time": "2024-08-20 15:05:36"
+},
+{
+    "unit_name": "海南有趣科技有限公司",
+    "nature_name": "企业",
+    "domain": "todesk.com",
+    "domain_id": 110005716896,
+    "main_licence": "琼ICP备20000605号",
+    "service_licence": "琼ICP备20000605号-1",
+    "main_id": 110002348937,
+    "update_time": "2022-11-14 11:07:42"
+}
+]
